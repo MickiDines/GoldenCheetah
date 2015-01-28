@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de">
+<TS version="2.1" language="dk">
 <context>
     <name>AAvgPower</name>
     <message>
         <location filename="../BasicRideMetrics.cpp" line="758"/>
         <source>Average aPower</source>
-        <translation>ø aPower</translation>
+        <translation>Gennemsnitslig effekt</translation>
     </message>
     <message>
         <location filename="../BasicRideMetrics.cpp" line="759"/>
         <location filename="../BasicRideMetrics.cpp" line="760"/>
         <source>watts</source>
-        <translation>Watt</translation>
+        <translation>watt</translation>
     </message>
 </context>
 <context>
@@ -20,7 +20,7 @@
     <message>
         <location filename="../ANTlocalController.cpp" line="122"/>
         <source>Cannot open ANT+ device</source>
-        <translation>Keine Verbindung zum ANT+ Gerät</translation>
+        <translation>Der kan ikke fås adgang til ANT+ enhed</translation>
     </message>
 </context>
 <context>
@@ -28,16 +28,16 @@
     <message>
         <location filename="../AboutDialog.cpp" line="25"/>
         <source>About GoldenCheetah</source>
-        <translatorcomment>Über GoldenCheetah</translatorcomment>
+        <translatorcomment>Om GoldenCheetah</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Über GoldenCheetah</lengthvariant>
+            <lengthvariant>Om GoldenCheetah</lengthvariant>
             <lengthvariant></lengthvariant>
         </translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="36"/>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Om</translation>
     </message>
     <message>
         <location filename="../AboutDialog.cpp" line="37"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../AboutDialog.cpp" line="41"/>
         <source>Contributors</source>
-        <translation>Mitwirkende</translation>
+        <translation>Medvirkende</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../AboutDialog.cpp" line="62"/>
         <source>&lt;center&gt;&lt;img src=&quot;:images/gc.png&quot; height=80&gt;&lt;h2&gt;GoldenCheetah&lt;/h2&gt;Cycling Power Analysis Software&lt;br&gt;for Linux, Mac, and Windows&lt;p&gt;GoldenCheetah is licensed under the&lt;br&gt;&lt;a href=&quot;http://www.gnu.org/copyleft/gpl.html&quot;&gt;GNU General Public License&lt;/a&gt;.&lt;p&gt;Source code can be obtained from&lt;br&gt;&lt;a href=&quot;http://goldencheetah.org/&quot;&gt;http://goldencheetah.org/&lt;/a&gt;.&lt;p&gt;Ride files and other data are stored in&lt;br&gt;&lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;&lt;p&gt;Trademarks used with permission&lt;br&gt;TSS, NP, IF courtesy of &lt;a href=&quot;http://www.peaksware.com&quot;&gt;Peaksware LLC&lt;/a&gt;.&lt;br&gt;BikeScore, xPower courtesy of &lt;a href=&quot;http://www.physfarm.com&quot;&gt;Physfarm Training Systems&lt;/a&gt;.&lt;br&gt;Virtual Speed courtesy of Tom Compton &lt;a href=&quot;http://www.analyticcycling.com&quot;&gt;AnalyticCycling&lt;/a&gt;.&lt;br&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;img src=&quot;:images/gc.png&quot; height=80&gt;&lt;h2&gt;GoldenCheetah&lt;/h2&gt;Software zur Fahrradleistungsanalyse&lt;br&gt;für Linux, Mac und Windows&lt;p&gt;GoldenCheetah wird lizensiert unter der&lt;br&gt;&lt;a href=&quot;http://www.gnu.org/copyleft/gpl.html&quot;&gt;GNU General Public License&lt;/a&gt;.&lt;p&gt;Der Quellcode ist erhältlich von&lt;br&gt;&lt;a href=&quot;http://goldencheetah.org/&quot;&gt;http://goldencheetah.org/&lt;/a&gt;.&lt;p&gt;Benutzerdaten werden gespeichert unter &lt;br&gt;&lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;&lt;p&gt;Benutzte Trademarks:&lt;br&gt;TSS, NP, IF mit freundlicher Genehmigung von &lt;a href=&quot;http://www.peaksware.com&quot;&gt;Peaksware LLC&lt;/a&gt;.&lt;br&gt;BikeScore, xPower mit freundlicher Genehmigung von &lt;a href=&quot;http://www.physfarm.com&quot;&gt;Physfarm Training Systems&lt;/a&gt;.&lt;br&gt;Virtual Speed mit freundlicher Genehmigung von Tom Compton &lt;a href=&quot;http://www.analyticcycling.com&quot;&gt;Analytic Cycling&lt;/a&gt;.&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;img src=&quot;:images/gc.png&quot; height=80&gt;&lt;h2&gt;GoldenCheetah&lt;/h2&gt;Cykling effekts analyserings software&lt;br&gt;til Linux, Mac og Windows&lt;p&gt;GoldenCheetah er licenseret under&lt;br&gt;&lt;a href=&quot;http://www.gnu.org/copyleft/gpl.html&quot;&gt;GNU General Public License&lt;/a&gt;.&lt;p&gt;Kildeteksten kan anskaffes fra&lt;br&gt;&lt;a href=&quot;http://goldencheetah.org/&quot;&gt;http://goldencheetah.org/&lt;/a&gt;.&lt;p&gt;Træningsfiler og andre date er gemt i&lt;br&gt;&lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;&lt;p&gt;Trademarks brugt med tilladelse:&lt;br&gt;TSS, NP, IF med tilladelse af &lt;a href=&quot;http://www.peaksware.com&quot;&gt;Peaksware LLC&lt;/a&gt;.&lt;br&gt;BikeScore, xPower med tilladelse af &lt;a href=&quot;http://www.physfarm.com&quot;&gt;Physfarm Training Systems&lt;/a&gt;.&lt;br&gt;Virtual Speed med tilladelse af von Tom Compton &lt;a href=&quot;http://www.analyticcycling.com&quot;&gt;Analytic Cycling&lt;/a&gt;.&lt;/center&gt;</translation>
     </message>
 </context>
 <context>
@@ -68,33 +68,33 @@
     <message>
         <location filename="../WorkoutWizard.cpp" line="278"/>
         <source>Workout Wizard</source>
-        <translation>Workout Assistent</translation>
+        <translation>Træningstur assistent</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="279"/>
         <source>Absolute Wattage Workout Creator</source>
-        <translation>Workout erstellen: Absolute Leistung</translation>
+        <translation>Oprettelse af absolut watt træningstur</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="283"/>
         <source>Minutes</source>
-        <translation>Minuten</translation>
+        <translation>Minutter</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="284"/>
         <location filename="../WorkoutWizard.cpp" line="291"/>
         <source>Wattage</source>
-        <translation>Leistung</translation>
+        <translation>Effekt</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="292"/>
         <source>Time (minutes)</source>
-        <translation>Zeit (Minuten)</translation>
+        <translation>Tid (minutter)</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="364"/>
         <source>Save Workout</source>
-        <translation>Workout speichern</translation>
+        <translation>Gem træningstur</translation>
     </message>
     <message>
         <location filename="../WorkoutWizard.cpp" line="365"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="50"/>
         <source>Add Device Wizard</source>
-        <translation>Assistent zum Hinzufügen von Geräten</translation>
+        <translation>Tilføj enhed assistent</translation>
     </message>
 </context>
 <context>
@@ -115,26 +115,26 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1070"/>
         <source>Done</source>
-        <translation>Fertig</translation>
+        <translation>Færdig</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1071"/>
         <source>Confirm configuration and add device</source>
-        <translation>Konfiguration bestätigen und Gerät hinzufügen</translation>
+        <translation>Bekræft konfiguration og tilføj enhed</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1076"/>
         <source>We will now add a new device with the configuration shown below. Please take a moment to review and then click Finish to add the device and complete this wizard, or press the Back button to make amendments.
 
 </source>
-        <translation>Es wird nun ein neues Gerät mit der unten angezeigten Konfiguration hinzugefügt. Um das Gerät hinzuzufügen, den &quot;Fertig&quot;-Knopf drücken. Um Korrekturen vorzunehmen, den &quot;Zurück&quot;-Knopf drücken.
+        <translation>Vil vil nu tilføje en ny enhed med nedenstående konfiguration. Brugt venglist et øjeblik på, at gennemgå konfigurationen og klik på "Færdig" for at tilføje enheden, og færdiggøre denne assistent. Alternativt klik på "Tilbage" knappen for at udføre ændringer.
 
 </translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1087"/>
         <source>Name*</source>
-        <translation>Name*</translation>
+        <translation>Navn*</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1088"/>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1098"/>
         <source>Virtual</source>
-        <translation>virtuell</translation>
+        <translation>Virtuel</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1162"/>
@@ -159,226 +159,226 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1174"/>
         <source>Wheel Size</source>
-        <translation>Laufradgröße</translation>
+        <translation>Hjulstørrelse</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1102"/>
         <source>None</source>
-        <translation>Kein</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1103"/>
         <source>Power - Kurt Kinetic Cyclone</source>
-        <translation>Leistung - Kurt Kinetic Cyclone</translation>
+        <translation>Effekt - Kurt Kinetic Cyclone</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1104"/>
         <source>Power - Kurt Kinetic Road Machine</source>
-        <translation>Leistung - Kurt Kinetic Road Machine</translation>
+        <translation>Effekt - Kurt Kinetic Road Machine</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1105"/>
         <source>Power - Cyclops Fluid 2</source>
-        <translation>Leistung - Cyclops Fluid 2</translation>
+        <translation>Effekt - Cyclops Fluid 2</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1106"/>
         <source>Power - BT Advanced Training System</source>
-        <translation>Leistung - BT Advanced Training System</translation>
+        <translation>Effekt - BT Advanced Training System</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1107"/>
         <source>Power - LeMond Revolution</source>
-        <translation>Leistung - LeMond Revolution</translation>
+        <translation>Effekt - LeMond Revolution</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1108"/>
         <source>Power - 1UP USA Trainer</source>
-        <translation>Leistung - 1UP USA Trainer</translation>
+        <translation>Effekt - 1UP USA Trainer</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1109"/>
         <source>Power - Minoura V100 Trainer (H)</source>
-        <translation>Leistung - Minoura V100 Trainer (H)</translation>
+        <translation>Effekt - Minoura V100 Trainer (H)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1110"/>
         <source>Power - Minoura V100 Trainer (5)</source>
-        <translation>Leistung - Minoura V100 Trainer (5)</translation>
+        <translation>Effekt - Minoura V100 Trainer (5)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1111"/>
         <source>Power - Minoura V100 Trainer (4)</source>
-        <translation>Leistung - Minoura V100 Trainer (4)</translation>
+        <translation>Effekt - Minoura V100 Trainer (4)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1112"/>
         <source>Power - Minoura V100 Trainer (3)</source>
-        <translation>Leistung - Minoura V100 Trainer (3)</translation>
+        <translation>Effekt - Minoura V100 Trainer (3)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1113"/>
         <source>Power - Minoura V100 Trainer (2)</source>
-        <translation>Leistung - Minoura V100 Trainer (2)</translation>
+        <translation>Effekt - Minoura V100 Trainer (2)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1114"/>
         <source>Power - Minoura V100 Trainer (1)</source>
-        <translation>Leistung - Minoura V100 Trainer (1)</translation>
+        <translation>Effekt - Minoura V100 Trainer (1)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1115"/>
         <source>Power - Minoura V100 Trainer (L)</source>
-        <translation>Leistung - Minoura V100 Trainer (L)</translation>
+        <translation>Effekt - Minoura V100 Trainer (L)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1116"/>
         <source>Power - Saris Powerbeam Pro</source>
-        <translation>Leistung - Saris Powerbeam Pro</translation>
+        <translation>Effekt - Saris Powerbeam Pro</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1117"/>
         <source>Power - Tacx Satori (2)</source>
-        <translation>Leistung - Tacx Satori (2)</translation>
+        <translation>Effekt - Tacx Satori (2)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1118"/>
         <source>Power - Tacx Satori (4)</source>
-        <translation>Leistung - Tacx Satori (4)</translation>
+        <translation>Effekt - Tacx Satori (4)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1119"/>
         <source>Power - Tacx Satori (6)</source>
-        <translation>Leistung - Tacx Satori (6)</translation>
+        <translation>Effekt - Tacx Satori (6)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1120"/>
         <source>Power - Tacx Satori (8)</source>
-        <translation>Leistung - Tacx Satori (8)</translation>
+        <translation>Effekt - Tacx Satori (8)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1121"/>
         <source>Power - Tacx Satori (10)</source>
-        <translation>Leistung - Tacx Satori (10)</translation>
+        <translation>Effekt - Tacx Satori (10)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1122"/>
         <source>Power - Tacx Flow (0)</source>
-        <translation>Leistung - Tacx Flow (0)</translation>
+        <translation>Effekt - Tacx Flow (0)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1123"/>
         <source>Power - Tacx Flow (2)</source>
-        <translation>Leistung - Tacx Flow (2)</translation>
+        <translation>Effekt - Tacx Flow (2)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1124"/>
         <source>Power - Tacx Flow (4)</source>
-        <translation>Leistung - Tacx Flow (4)</translation>
+        <translation>Effekt - Tacx Flow (4)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1125"/>
         <source>Power - Tacx Flow (6)</source>
-        <translation>Leistung - Tacx Flow (6)</translation>
+        <translation>Effekt - Tacx Flow (6)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1126"/>
         <source>Power - Tacx Flow (8)</source>
-        <translation>Leistung - Tacx Flow (8)</translation>
+        <translation>Effekt - Tacx Flow (8)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1127"/>
         <source>Power - Tacx Blue Twist (1)</source>
-        <translation>Leistung - Tacx Blue Twist (1)</translation>
+        <translation>Effekt - Tacx Blue Twist (1)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1128"/>
         <source>Power - Tacx Blue Twist (3)</source>
-        <translation>Leistung - Tacx Blue Twist (3)</translation>
+        <translation>Effekt - Tacx Blue Twist (3)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1129"/>
         <source>Power - Tacx Blue Twist (5)</source>
-        <translation>Leistung - Tacx Blue Twist (5)</translation>
+        <translation>Effekt - Tacx Blue Twist (5)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1130"/>
         <source>Power - Tacx Blue Twist (7)</source>
-        <translation>Leistung - Tacx Blue Twist (7)</translation>
+        <translation>Effekt - Tacx Blue Twist (7)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1131"/>
         <source>Power - Tacx Blue Motion (2)</source>
-        <translation>Leistung - Tacx Blue Motion (2)</translation>
+        <translation>Effekt - Tacx Blue Motion (2)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1132"/>
         <source>Power - Tacx Blue Motion (4)</source>
-        <translation>Leistung - Tacx Blue Motion (4)</translation>
+        <translation>Effekt - Tacx Blue Motion (4)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1133"/>
         <source>Power - Tacx Blue Motion (6)</source>
-        <translation>Leistung - Tacx Blue Motion (6)</translation>
+        <translation>Effekt - Tacx Blue Motion (6)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1134"/>
         <source>Power - Tacx Blue Motion (8)</source>
-        <translation>Leistung - Tacx Blue Motion (8)</translation>
+        <translation>Effekt - Tacx Blue Motion (8)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1135"/>
         <source>Power - Tacx Blue Motion (10)</source>
-        <translation>Leistung - Tacx Blue Motion (10)</translation>
+        <translation>Effekt - Tacx Blue Motion (10)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1136"/>
         <source>Power - Elite Supercrono Powermag (1)</source>
-        <translation>Leistung - Elite Supercrono Powermag (1)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (1)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1137"/>
         <source>Power - Elite Supercrono Powermag (2)</source>
-        <translation>Leistung - Elite Supercrono Powermag (2)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (2)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1138"/>
         <source>Power - Elite Supercrono Powermag (3)</source>
-        <translation>Leistung - Elite Supercrono Powermag (3)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (3)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1139"/>
         <source>Power - Elite Supercrono Powermag (4)</source>
-        <translation>Leistung - Elite Supercrono Powermag (4)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (4)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1140"/>
         <source>Power - Elite Supercrono Powermag (5)</source>
-        <translation>Leistung - Elite Supercrono Powermag (5)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (5)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1141"/>
         <source>Power - Elite Supercrono Powermag (6)</source>
-        <translation>Leistung - Elite Supercrono Powermag (6)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (6)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1142"/>
         <source>Power - Elite Supercrono Powermag (7)</source>
-        <translation>Leistung - Elite Supercrono Powermag (7)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (7)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1143"/>
         <source>Power - Elite Supercrono Powermag (8)</source>
-        <translation>Leistung - Elite Supercrono Powermag (8)</translation>
+        <translation>Effekt - Elite Supercrono Powermag (8)</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1144"/>
         <source>Power - Elite Qubo Power Fluid</source>
-        <translation>Power - Elite Qubo Power Fluid</translation>
+        <translation>Effekt - Elite Qubo Power Fluid</translation>
     </message>
     <message>
         <source>Road/Cross (700C/622)</source>
-        <translation type="vanished">Straße/Cross (700C/622)</translation>
+        <translation type="vanished">Landevej/Cross (700C/622)</translation>
     </message>
     <message>
         <source>Tri/TT (650C)</source>
@@ -395,27 +395,27 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1179"/>
         <source>Selected by default</source>
-        <translation>Standardauswahl</translation>
+        <translation>Valgt som standard</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1186"/>
         <source>Power</source>
-        <translation>Leistung</translation>
+        <translation>Effekt</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1187"/>
         <source>Heartrate</source>
-        <translation>Herzfrequenz</translation>
+        <translation>Puls</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1188"/>
         <source>Speed</source>
-        <translation>Geschwindigkeit</translation>
+        <translation>Hastighed</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="1189"/>
         <source>Cadence</source>
-        <translation>Trittfrequenz</translation>
+        <translation>Kadence</translation>
     </message>
 </context>
 <context>
@@ -423,22 +423,22 @@
     <message>
         <location filename="../AddDeviceWizard.cpp" line="489"/>
         <source>Select Firmware</source>
-        <translation>Firmware auswählen</translation>
+        <translation>Vælg Firmware</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="490"/>
         <source>Select Firmware for Tacx Fortius</source>
-        <translation>Firmware für Tacx Fortius auswählen</translation>
+        <translation>Vælg Firmware til Tacx Fortius</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="493"/>
         <source>Browse</source>
-        <translation>Durchsuchen</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="494"/>
         <source>Copy to Library</source>
-        <translation>Zur Bibliothek kopieren</translation>
+        <translation>Kopier til bibliotek</translation>
     </message>
     <message>
         <location filename="../AddDeviceWizard.cpp" line="499"/>
